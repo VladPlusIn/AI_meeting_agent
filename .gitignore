@@ -1,0 +1,5 @@
+# Ignore configuration file containing API keys
+config.json
+
+# Ignore transcription log files
+transcription_log.json
