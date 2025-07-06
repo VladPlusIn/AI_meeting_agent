@@ -3,3 +3,4 @@ config.json
 
 # Ignore transcription log files
 transcription_log.json
+__pycache__/
